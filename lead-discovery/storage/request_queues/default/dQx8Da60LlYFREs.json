@@ -1,0 +1,9 @@
+{
+	"id": "dQx8Da60LlYFREs",
+	"json": "{\"id\":\"dQx8Da60LlYFREs\",\"url\":\"https://www.active.in\",\"loadedUrl\":\"https://active.in/\",\"uniqueKey\":\"https://www.active.in\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2026-09-18T09:04:51.237Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.active.in",
+	"url": "https://www.active.in"
+}

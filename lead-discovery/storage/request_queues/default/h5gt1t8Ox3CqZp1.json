@@ -1,0 +1,9 @@
+{
+	"id": "h5gt1t8Ox3CqZp1",
+	"json": "{\"id\":\"h5gt1t8Ox3CqZp1\",\"url\":\"http://www.tashardware.com\",\"loadedUrl\":\"https://www.tashardware.com/\",\"uniqueKey\":\"http://www.tashardware.com\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2026-09-18T09:06:08.952Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "http://www.tashardware.com",
+	"url": "http://www.tashardware.com"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "OItwDRPmeJrFdUP",
+	"json": "{\"id\":\"OItwDRPmeJrFdUP\",\"url\":\"http://windsealhardware.com\",\"loadedUrl\":\"https://windsealhardware.com/\",\"uniqueKey\":\"http://windsealhardware.com\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2026-09-18T09:04:47.714Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "http://windsealhardware.com",
+	"url": "http://windsealhardware.com"
+}

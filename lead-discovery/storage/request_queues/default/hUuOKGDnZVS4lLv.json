@@ -1,0 +1,9 @@
+{
+	"id": "hUuOKGDnZVS4lLv",
+	"json": "{\"id\":\"hUuOKGDnZVS4lLv\",\"url\":\"https://www.alteza.in\",\"loadedUrl\":\"https://alteza.in/\",\"uniqueKey\":\"https://www.alteza.in\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2026-09-18T09:05:24.607Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.alteza.in",
+	"url": "https://www.alteza.in"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "Cc1dC89ntyib3z6",
+	"json": "{\"id\":\"Cc1dC89ntyib3z6\",\"url\":\"https://www.simmplyperfect.com\",\"loadedUrl\":\"https://www.simmplyperfect.com/\",\"uniqueKey\":\"https://www.simmplyperfect.com\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2026-09-18T09:04:44.302Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.simmplyperfect.com",
+	"url": "https://www.simmplyperfect.com"
+}

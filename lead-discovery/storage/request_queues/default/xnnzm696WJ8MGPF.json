@@ -1,0 +1,9 @@
+{
+	"id": "xnnzm696WJ8MGPF",
+	"json": "{\"id\":\"xnnzm696WJ8MGPF\",\"url\":\"https://www.yesviinfra.com\",\"loadedUrl\":\"https://yesviinfra.com/\",\"uniqueKey\":\"https://www.yesviinfra.com\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2026-09-18T09:05:09.160Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.yesviinfra.com",
+	"url": "https://www.yesviinfra.com"
+}

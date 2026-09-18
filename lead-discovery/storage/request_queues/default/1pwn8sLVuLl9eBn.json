@@ -1,0 +1,9 @@
+{
+	"id": "1pwn8sLVuLl9eBn",
+	"json": "{\"id\":\"1pwn8sLVuLl9eBn\",\"url\":\"http://www.a1upvccompany.com\",\"loadedUrl\":\"https://www.a1upvccompany.com/\",\"uniqueKey\":\"http://www.a1upvccompany.com\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2026-09-18T09:05:09.802Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "http://www.a1upvccompany.com",
+	"url": "http://www.a1upvccompany.com"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "lead-discovery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "typecheck": "tsc --noEmit",
+    "start": "tsx src/index.ts",
+    "test": "npm run typecheck",
+    "clean:excel": "node -e \"const fs=require('fs');const path=require('path');const dir='output';if(fs.existsSync(dir)){fs.readdirSync(dir).filter(f=>f.match(/-\\d{14}\\.xlsx$/)).forEach(f=>{const p=path.join(dir,f);fs.unlinkSync(p);console.log('Deleted:',p);});}\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "crawlee": "^3.18.1",
+    "dotenv": "^17.4.2",
+    "exceljs": "^4.4.0",
+    "playwright": "^1.63.0"
+  },
+  "devDependencies": {
+    "@types/node": "^26.5.1",
+    "tsx": "^4.23.13",
+    "typescript": "^7.0.2"
+  }
+}

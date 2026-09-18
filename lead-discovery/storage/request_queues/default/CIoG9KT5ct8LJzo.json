@@ -1,0 +1,9 @@
+{
+	"id": "CIoG9KT5ct8LJzo",
+	"json": "{\"id\":\"CIoG9KT5ct8LJzo\",\"url\":\"http://www.buildwick.net\",\"loadedUrl\":\"http://www.buildwick.net/\",\"uniqueKey\":\"http://www.buildwick.net\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2026-09-18T09:05:55.053Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "http://www.buildwick.net",
+	"url": "http://www.buildwick.net"
+}

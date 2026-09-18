@@ -1,0 +1,9 @@
+{
+	"id": "8vry4yrpUYEADxY",
+	"json": "{\"id\":\"8vry4yrpUYEADxY\",\"url\":\"https://www.masonupvc.com\",\"loadedUrl\":\"https://masonupvc.com/\",\"uniqueKey\":\"https://www.masonupvc.com\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2026-09-18T09:05:00.140Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.masonupvc.com",
+	"url": "https://www.masonupvc.com"
+}

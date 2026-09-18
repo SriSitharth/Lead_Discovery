@@ -1,0 +1,9 @@
+{
+	"id": "kfhTmg5IUjAZlEx",
+	"json": "{\"id\":\"kfhTmg5IUjAZlEx\",\"url\":\"http://www.spensascreens.com\",\"loadedUrl\":\"https://spensascreens.com/\",\"uniqueKey\":\"http://www.spensascreens.com\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2026-09-18T09:05:37.955Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "http://www.spensascreens.com",
+	"url": "http://www.spensascreens.com"
+}

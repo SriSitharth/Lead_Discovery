@@ -1,0 +1,9 @@
+{
+	"id": "16iX5bIuKqNfV8C",
+	"json": "{\"id\":\"16iX5bIuKqNfV8C\",\"url\":\"https://weatherseal.com\",\"loadedUrl\":\"https://weatherseal.com/\",\"uniqueKey\":\"https://weatherseal.com\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2026-09-18T09:05:58.463Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://weatherseal.com",
+	"url": "https://weatherseal.com"
+}

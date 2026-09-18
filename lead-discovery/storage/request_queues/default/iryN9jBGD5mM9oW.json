@@ -1,0 +1,9 @@
+{
+	"id": "iryN9jBGD5mM9oW",
+	"json": "{\"id\":\"iryN9jBGD5mM9oW\",\"url\":\"http://www.windoorkrafts.com\",\"loadedUrl\":\"https://windoorkrafts.com/\",\"uniqueKey\":\"http://www.windoorkrafts.com\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2026-09-18T09:05:24.721Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "http://www.windoorkrafts.com",
+	"url": "http://www.windoorkrafts.com"
+}

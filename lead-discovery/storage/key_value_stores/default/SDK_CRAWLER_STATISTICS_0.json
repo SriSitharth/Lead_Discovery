@@ -1,0 +1,107 @@
+{
+  "requestsFinished": 49,
+  "requestsFailed": 8,
+  "requestsRetries": 8,
+  "requestsFailedPerMinute": 2,
+  "requestsFinishedPerMinute": 14,
+  "requestMinDurationMillis": 665,
+  "requestMaxDurationMillis": 23167,
+  "requestTotalFailedDurationMillis": 178613,
+  "requestTotalFinishedDurationMillis": 217468,
+  "crawlerStartedAt": "2026-09-18T09:04:39.432Z",
+  "crawlerFinishedAt": "2026-09-18T09:08:02.245Z",
+  "statsPersistedAt": "2026-09-18T09:08:02.245Z",
+  "crawlerRuntimeMillis": 203212,
+  "crawlerLastStartTimestamp": 1789722279033,
+  "requestRetryHistogram": [
+    49,
+    null,
+    8
+  ],
+  "statsId": "0",
+  "requestAvgFailedDurationMillis": 22327,
+  "requestAvgFinishedDurationMillis": 4438,
+  "requestTotalDurationMillis": 396081,
+  "requestsTotal": 57,
+  "requestsWithStatusCode": {
+    "200": 66,
+    "403": 3,
+    "526": 1
+  },
+  "errors": {
+    "C:\\Arqonz Projects\\Lead Discovery\\lead-discovery\\node_modules\\@crawlee\\playwright\\internals\\utils\\playwright-utils.js:168:17": {
+      "missing error code": {
+        "Error": {
+          "page.goto: net::ERR_EMPTY_RESPONSE at https://www.sribalajiupvcwindowsanddoors.com/": {
+            "count": 1
+          }
+        }
+      }
+    },
+    "C:\\Arqonz Projects\\Lead Discovery\\lead-discovery\\src\\extractors\\contact.extractor.ts:26:41": {
+      "missing error code": {
+        "Error": {
+          "locator.evaluateAll: Execution context was destroyed, most likely because of a navigation": {
+            "count": 1
+          }
+        }
+      }
+    },
+    "C:\\Arqonz Projects\\Lead Discovery\\lead-discovery\\node_modules\\@crawlee\\basic\\internals\\basic-crawler.js:954:19": {
+      "missing error code": {
+        "Error": {
+          "Request blocked - received 403 status code.": {
+            "count": 1
+          }
+        }
+      }
+    },
+    "C:\\Arqonz Projects\\Lead Discovery\\lead-discovery\\src\\extractors\\contact.extractor.ts:105:51": {
+      "missing error code": {
+        "TimeoutError": {
+          "locator.textContent: Timeout 30000ms exceeded.": {
+            "count": 5
+          }
+        }
+      }
+    }
+  },
+  "retryErrors": {
+    "C:\\Arqonz Projects\\Lead Discovery\\lead-discovery\\node_modules\\@crawlee\\playwright\\internals\\utils\\playwright-utils.js:168:17": {
+      "missing error code": {
+        "Error": {
+          "page.goto: net::ERR_EMPTY_RESPONSE at https://www.sribalajiupvcwindowsanddoors.com/": {
+            "count": 2
+          }
+        }
+      }
+    },
+    "C:\\Arqonz Projects\\Lead Discovery\\lead-discovery\\src\\extractors\\contact.extractor.ts:26:41": {
+      "missing error code": {
+        "Error": {
+          "locator.evaluateAll: Execution context was destroyed, most likely because of a navigation": {
+            "count": 2
+          }
+        }
+      }
+    },
+    "C:\\Arqonz Projects\\Lead Discovery\\lead-discovery\\src\\extractors\\contact.extractor.ts:105:51": {
+      "missing error code": {
+        "TimeoutError": {
+          "locator.textContent: Timeout 30000ms exceeded.": {
+            "count": 10
+          }
+        }
+      }
+    },
+    "C:\\Arqonz Projects\\Lead Discovery\\lead-discovery\\node_modules\\@crawlee\\basic\\internals\\basic-crawler.js:954:19": {
+      "missing error code": {
+        "Error": {
+          "Request blocked - received 403 status code.": {
+            "count": 2
+          }
+        }
+      }
+    }
+  }
+}

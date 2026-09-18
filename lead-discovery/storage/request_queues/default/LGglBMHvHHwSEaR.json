@@ -1,0 +1,9 @@
+{
+	"id": "LGglBMHvHHwSEaR",
+	"json": "{\"id\":\"LGglBMHvHHwSEaR\",\"url\":\"http://www.vintechhardware.com\",\"loadedUrl\":\"https://vintechhardware.com/?fbclid=IwY2xjawUW0SRwZG9mAWV4dG4DYWVtAjEwAGJyaWQRMUNLeGdpV1lIWXJidnZ4Mk5zcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEejpjyuSEPOzKxXAK6waXvyrNciWcF80OvEf5MGgAoYTuPH5E67NNGq6G9-CM_aem_VbNe3xvoB82r55RWYGitjQ\",\"uniqueKey\":\"http://www.vintechhardware.com\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2026-09-18T09:04:51.132Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "http://www.vintechhardware.com",
+	"url": "http://www.vintechhardware.com"
+}
